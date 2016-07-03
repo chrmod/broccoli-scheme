@@ -1,0 +1,14 @@
+{
+  "name": "broccoli-scheme",
+  "version": "0.0.1",
+  "description": "declare Broccoli trees in Scheme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krzysztof Jan Modras <chrmod@chrmod.net>",
+  "license": "MIT",
+  "dependencies": {
+    "biwascheme": "^0.6.4"
+  }
+}
